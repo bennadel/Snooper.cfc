@@ -38,7 +38,7 @@ The .snoop() method also takes an optional filter function that will exclude key
 
 ----
 
-*CAUTION*: Never run this in "public" - always hide this behind some sort of 
+**CAUTION**: Never run this in "public" - always hide this behind some sort of 
 authentication or administrative tooling. This could expose very sensitive information
 to anyone who can access it.
 
